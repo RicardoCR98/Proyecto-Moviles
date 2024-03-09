@@ -1,0 +1,34 @@
+<resources>
+    <!--Pantalla lista departamentos-->
+    <string name="app_name">ExamenIB</string>
+    <string name="title">Departamento</string>
+    <string name="btnDepartamento">Agregar Departamento</string>
+
+    <!--Pantalla lista departamentos-->
+    <string name="empleado_title">Empleado</string>
+    <string name="btnEmpelado">Agregar Empleado</string>
+
+    <!--Para el menu desplegable de departamento-->
+    <string name="menu_editar">Editar</string>
+    <string name="menu_eliminar">Eliminar</string>
+    <string name="menu_ver">Ver Ficha de Empleados</string>
+
+    <!--Para el menu desplegable de empleado-->
+    <string name="empleado_menu_editar">Editar</string>
+    <string name="empleado_menu_eliminar">Eliminar</string>
+
+    <!--Para la pantalla de creacion de departamento-->
+    <string name="dpto_nombre">Ingrese  el nombre del departamento</string>
+    <string name="dpto_location">Ingrese  la localización</string>
+    <string name="dpto_Nempleados">Ingrese  el número de empleados</string>
+    <string name="dpto_Guardar">Guardar</string>
+
+    <!--Para la pantalla de creacion de empleados-->
+    <string name="empleado_nombre">Ingrese el nombre del empleado</string>
+    <string name="empleado_posicion">Ingrese la posicion del empleado</string>
+    <string name="empleado_salary">Ingrese el salario del empleado</string>
+    <string name="empleado_activo">¿Se encuentra en actividad?</string>
+    <string name="empleado_Guardar">Guardar</string>
+    <string name="title_activity_update_empleado_view">UpdateEmpleadoView</string>
+
+</resources>

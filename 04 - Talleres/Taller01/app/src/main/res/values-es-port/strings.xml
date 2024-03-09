@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="condicion">Texto en port ES</string>
+    <color name="background">#FF0000</color>
+    <color name="Mycolor">#27FF00</color>
+</resources>

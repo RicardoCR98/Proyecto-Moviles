@@ -1,0 +1,15 @@
+1, Juan, Product manager, 2000.0, 2023-12-20, true
+2, Pepe, Produc owner, 2000.0, 2023-12-20, true
+3, Rocio, Ui, 1500.0, 2023-12-20, true
+4, Lucho, DevOps, 1700.0, 2023-12-20, true
+5, David, Developer, 1500.0, 2023-12-20, true
+6, Maria, Product owner, 2200.0, 2023-12-20, true
+7, Carlos, UX Designer, 1800.0, 2023-12-20, true
+8, Laura, DevOps Engineer, 1900.0, 2023-12-20, true
+9, Pedro, Frontend Developer, 1600.0, 2023-12-20, true
+10, Sofía, Backend Developer, 1700.0, 2023-12-20, true
+11, Miguel, Scrum Master, 2100.0, 2023-12-20, true
+12, Elena, Mobile Developer, 1750.0, 2023-12-20, true
+13, Javier, Data Scientist, 2000.0, 2023-12-20, true
+14, Isabel, QA Engineer, 1800.0, 2023-12-20, true
+15, Alejandro, Full Stack Developer, 1900.0, 2023-12-20, true

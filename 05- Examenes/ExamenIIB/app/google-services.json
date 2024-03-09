@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079995280154",
+    "project_id": "exameniib-campanagary",
+    "storage_bucket": "exameniib-campanagary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079995280154:android:403a4bfc9ff9604071daa3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJkD1AE1fQ-uKZKX5SUzOAcqg9zfkUx1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

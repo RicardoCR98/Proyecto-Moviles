@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".vista.CreateEmpleadoView"
+    android:orientation="vertical"
+    android:padding="32dp">
+    
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp"
+        android:text="Detalles de empleado"/>
+    
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/etEmpleadoName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:hint="@string/empleado_nombre"
+        android:maxLines="1"
+        android:singleLine="true"/>
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/etEmpleadoPosicion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:hint="@string/empleado_posicion"
+        android:maxLines="1"
+        android:singleLine="true"/>
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/etEmpleadoSalario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:hint="@string/empleado_salary"
+        android:maxLines="1"
+        android:shadowColor="@color/purple_200"
+        android:singleLine="true"/>
+
+    <Switch
+        android:id="@+id/swActivo"
+        android:layout_marginBottom="32dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="@string/empleado_activo"/>
+
+    <Button
+        style="@style/ButtonStyle"
+        android:id="@+id/btnGuardarEmpleado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/empleado_Guardar"/>
+</LinearLayout>
